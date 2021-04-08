@@ -1,6 +1,7 @@
 # Textual Categorization for Medical Application
 Download and install Anaconda IDE and install Spyder IDE with it.
-##Steps to install the packages
+
+##Steps to install the packages (make sure you've about 30 GB of space to install the packages)
 ```
 conda activate --stack myenv
 conda info --envs
