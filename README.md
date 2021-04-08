@@ -1,5 +1,14 @@
 # Textual Categorization for Medical Application
 
+##Steps to install the packages
+```
+conda activate --stack myenv
+conda info --envs
+conda env list
+conda install -n myenv pip
+conda activate myenv
+conda install --file requirements.txt
+```
 Have you experienced getting delayed Doctors appointment to get treated? Or had to go through a GP who later refers you to a specialized doc? Confused to which doc to consult?
 	Probably weeks later, haven’t you?
 Solution: Text categorization of medical health records using NLP to predict which doctor to consult with.
