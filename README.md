@@ -1,5 +1,5 @@
 # Textual Categorization for Medical Application
-
+Download and install Anaconda IDE and install Spyder IDE with it.
 ##Steps to install the packages
 ```
 conda activate --stack myenv
@@ -9,6 +9,11 @@ conda install -n myenv pip
 conda activate myenv
 conda install --file requirements.txt
 ```
+After the packages are installed then the code can be run.
+If any package is missing or is not installed properly re-install by using conda install <package name> or using pip install <package>
+
+Alternatively the code can also be run on Google Colab.
+
 Have you experienced getting delayed Doctors appointment to get treated? Or had to go through a GP who later refers you to a specialized doc? Confused to which doc to consult?
 	Probably weeks later, haven’t you?
 Solution: Text categorization of medical health records using NLP to predict which doctor to consult with.
