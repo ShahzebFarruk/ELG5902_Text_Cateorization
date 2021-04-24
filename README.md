@@ -47,5 +47,7 @@ Solution: Text categorization of medical health records using NLP to predict whi
 ![image](https://user-images.githubusercontent.com/61950234/111899230-97202a00-8a01-11eb-8fac-7f2494b3eedf.png)
 ![image](https://user-images.githubusercontent.com/61950234/111899236-9daea180-8a01-11eb-9920-2c397edbfe89.png)
 
+### Citation for Dataset:
+I would like to thank [mtsamples.com](https://www.mtsamples.com/) for providing the dataset.
 
 
